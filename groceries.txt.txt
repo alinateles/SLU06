@@ -1,0 +1,5 @@
+bananas
+yogurt
+meat
+fish
+vegetables
