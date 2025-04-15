@@ -4,3 +4,4 @@ meat
 fish
 vegetables
 butter
+eggs
